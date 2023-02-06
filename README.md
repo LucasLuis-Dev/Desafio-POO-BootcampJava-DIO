@@ -1,4 +1,4 @@
-# Desafio de POO do Bootcamp Orange Tech + | BackEnd 👨‍💻
+# 👨‍💻 Desafio de POO do Bootcamp Orange Tech + | BackEnd 
 
 <br>
 
@@ -10,14 +10,14 @@
 
 <br>
 
-## Descrição do Desafio 📄
+## 📄 Descrição do Desafio 
 
 <p>
 Desafio de Programação Orientada a Objetos (POO) com Java onde a pratica desse conceito foi fundamental nesse desafio. 
 Neste desafio foram utilizados e enfatizados os pilares da OO: Abstração, Encapsulamento, Herança e Polimorfismo. 
 </p>
 
-## Tecnologias 💻
+### 🎯 Tecnologias
 
 - Java
 - Git
